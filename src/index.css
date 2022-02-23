@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: OPTIVenus;
+    src: url(./assets/fonts/OPTIVenus-BoldExtended.otf);
+}
+
+*::selection{
+    background: #958777;
+    color: #191816;
+}
+
+*{
+    font-family: OPTIVenus !important;
+}
+
+body{
+    background: url('./assets/imgs/bg1.jpg');
+    background-size: cover;
+}
+
+
+.shadow{
+    box-shadow: 3px 3px !important;
+}

@@ -1,0 +1,7 @@
+<svg id="Icon_-_Search" data-name="Icon - Search" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="20" height="20" fill="#191816" opacity="0"/>
+  <g id="search" transform="translate(2.5 2.5)">
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="6.667" cy="6.667" r="6.667" fill="none" stroke="#191816" stroke-width="1"/>
+    <line id="Line_1" data-name="Line 1" x1="3.625" y1="3.625" transform="translate(11.375 11.375)" fill="none" stroke="#191816" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
